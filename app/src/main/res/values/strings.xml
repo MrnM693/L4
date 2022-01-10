@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">L4</string>
+
+    <string-array name="animale">
+        <item>Caine</item>
+        <item>Pisica</item>
+        <item>Cal</item>
+        <item>Vaca</item>
+        <item>Zebra</item>
+        <item>Leu</item>
+        <item>Tigru</item>
+        <item>Magar</item>
+        <item>Elefant</item>
+        <item>Porc</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+    </string-array>
+</resources>
